@@ -1,0 +1,11 @@
+ul.lpc-contributors_list {
+	list-style: none;
+}
+
+ul.lpc-contributors_list li {
+	padding: 3px 0px;
+}
+
+img.avatar {
+	margin-right: 10px;
+}
